@@ -1,3 +1,3 @@
 # AOAssist.com
-Albion Online Assistance Tool
-[AOAssist](www.AOAssist.com)
+
+[Albion Online Assistance Tool](http://www.AOAssist.com)
