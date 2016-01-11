@@ -1,2 +1,2 @@
-# AOAssist
-Albion Online Assist
+# AOAssist.com
+Albion Online Assistance Tool
